@@ -17,4 +17,4 @@ D. U-net model: Remove the hanger.
 
 E. cv2.GaussianBlur: Smooth the clothes border and remove the jagged edge.
 
-[4]. Result: Input a ima
+[4]. Result: Input a original clothes image, output a clothes image without other objects.
