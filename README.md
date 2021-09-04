@@ -3,7 +3,7 @@ This project of clothes segmentation was finished by Xianyao Chen, who worked fo
 
 [1] Target: clothes segmentation
 
-[2] Background: Remove backgrond of clothes image and remove the hanger.
+[2] Background: Remove background of clothes image and remove the hanger.
 
 [3] Techniques: 
 
