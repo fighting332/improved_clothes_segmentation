@@ -7,11 +7,11 @@ This project of clothes segmentation was finished by Xianyao Chen, who is servin
 
 [3] Techniques: 
 
-A. Deep learning framework: Pytorch
+A. Deep learning framework: PyTorch
 
 B. Data-preprocessing: Augment data and normalize data.
 
-C. U2-net moel: Remove the background of clothes image.
+C. U2-net model: Remove the background of clothes image.
 
 D. U-net model: Remove the hanger.
 
