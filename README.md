@@ -1,11 +1,15 @@
-# improved_clothes_segmentation
-This project of clothes segmentation was finished by Xianyao Chen, who is serving for e-commerce company (MiX:D, 믹스디 주식화사) of South Korea in 2021.
+This project for clothes segmentation was built by Xianyao Chen, 
+when serving for the e-commerce company (MiX:D, 믹스디 주식화사) in South Korea.
+The project was built based on the opensource project: 
+https://github.com/fighting332/cloths_segmentation.
+Some advanced features were added for the company use.
+The project was successfully tested on Amazon SageMaker platform.
 
 [1] Target: clothes segmentation
 
 [2] Background: Remove background of clothes image and remove the hanger.
 
-[3] Techniques: 
+[3] Techniques:
 
 A. Deep learning framework: PyTorch
 
